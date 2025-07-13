@@ -116,7 +116,7 @@ const Hero = () => {
           playsInline
           autoPlay
           preload="auto"
-          src="/gsap_cocktails/public/videos/output.mp4"
+          src="/videos/output.mp4"
         />
       </div>
     </>
